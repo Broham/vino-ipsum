@@ -6,7 +6,8 @@ A jQuery plugin that generates random 'lorem ipsum' snippets with wine based ter
 ```html
 <div>
     <p>
-        Century poor-tasting well-known disgorge pits sugars key hollow acres sweet exceedingly altitude croatia do tca.
+        Century poor-tasting well-known disgorge pits sugars key hollow acres sweet 
+        exceedingly altitude croatia do tca.
     </p>
 </div>
 ```
